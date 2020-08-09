@@ -3,7 +3,7 @@ name: README Documentation additon.
 about: Use this template if your issue is to extend the main README.md with further
   documentation.
 title: ''
-labels: documentation, enhancement, help wanted, good first issue
+labels: documentation, enhancement, good first issue, help wanted
 assignees: ''
 
 ---
